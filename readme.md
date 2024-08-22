@@ -1,6 +1,8 @@
 # Guía de optimización de Windows
 
-He hecho esta guía recopilando consejos de otras guías/vídeos/tweets/comentarios de gente del mundo del CS "de fiar" (todo lo que pone aquí lo hago en el PC cada vez que formateo y nunca tuve problemas, pero por si acaso digo que **no me hago responsable de nada**).
+He hecho esta guía recopilando consejos de otras guías/vídeos/tweets/comentarios de gente del mundo del CS "de fiar" (todo lo que pone aquí lo hago en el PC cada vez que formateo y nunca tuve problemas, pero por si acaso digo que **no me hago responsable de nada**). La he hecho para tener apuntado lo que yo hago, pero si le sirve a alguien pues bien para todos.
+
+Lo he probado en portátil sin gráfica (saltándome los puntos de GPU) y **no dió resultado**.
 
 ## NVCleanStall ([link](https://www.techpowerup.com/download/techpowerup-nvcleanstall/))
 
@@ -186,6 +188,8 @@ Arriba izda -> Steam -> Parametros
 ---
 
 ## QuickCPU ([link](https://coderbag.com/product/quickcpu), ver por abajo)
+
+-Analizar si hace algo más que crear un plan de energía.
 
 1. Darle al 3er boton (parece la señal de internet a tope)
 2. Darle debajo de "Performance" (abajo centro) a "Apply"
